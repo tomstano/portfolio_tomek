@@ -1,0 +1,145 @@
+[
+{
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+        "title": "test front",
+        "slug": "test-front",
+        "author": 1,
+        "updated_on": "2020-12-16T08:24:28.044Z",
+        "content": "tralalalalal",
+        "created_on": "2020-12-16T08:24:28.044Z",
+        "status": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 2,
+    "fields": {
+        "title": "lorem ipsum",
+        "slug": "lorem-ipsum",
+        "author": 1,
+        "updated_on": "2020-12-16T08:55:15.527Z",
+        "content": "ndjfhdksjfndjkfndkjfndksjfndskj",
+        "created_on": "2020-12-16T08:55:15.527Z",
+        "status": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 3,
+    "fields": {
+        "title": "new post",
+        "slug": "kolejny-post",
+        "author": 1,
+        "updated_on": "2020-12-16T09:20:59.887Z",
+        "content": "to jest kolejny post z frontu",
+        "created_on": "2020-12-16T09:20:59.888Z",
+        "status": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 4,
+    "fields": {
+        "title": "nowy front",
+        "slug": "nowy-front",
+        "author": 1,
+        "updated_on": "2020-12-16T12:41:33.928Z",
+        "content": "to jest nowy post",
+        "created_on": "2020-12-16T12:41:33.928Z",
+        "status": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 5,
+    "fields": {
+        "title": "test front trarara",
+        "slug": "test-front-tatatta",
+        "author": 1,
+        "updated_on": "2020-12-16T12:47:46.198Z",
+        "content": "fdfdsfdfsdfsd",
+        "created_on": "2020-12-16T12:47:46.198Z",
+        "status": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 6,
+    "fields": {
+        "title": "post from admin",
+        "slug": "post-from-admin",
+        "author": 1,
+        "updated_on": "2020-12-17T08:44:00.887Z",
+        "content": "this is post from admin",
+        "created_on": "2020-12-17T08:44:00.887Z",
+        "status": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 7,
+    "fields": {
+        "title": "tralalallal lal",
+        "slug": "tralalallal-lal",
+        "author": 1,
+        "updated_on": "2020-12-17T09:42:03.379Z",
+        "content": "fdjfidnfidjifjdifjdisjfidsjf",
+        "created_on": "2020-12-17T09:42:03.379Z",
+        "status": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 8,
+    "fields": {
+        "title": "tstano post",
+        "slug": "tstano-post",
+        "author": 1,
+        "updated_on": "2020-12-17T09:46:12.234Z",
+        "content": "cdsfdsfdfdsfdfdsf",
+        "created_on": "2020-12-17T09:46:12.234Z",
+        "status": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 9,
+    "fields": {
+        "title": "mod fixt one",
+        "slug": "mod-fixt-one",
+        "author": 1,
+        "updated_on": "2020-12-17T09:48:37.404Z",
+        "content": "modify from fixtures part 1",
+        "created_on": "2020-12-17T09:48:37.404Z",
+        "status": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 10,
+    "fields": {
+        "title": "mod fixt two",
+        "slug": "mod-fixt-two",
+        "author": 1,
+        "updated_on": "2020-12-17T10:07:01.771Z",
+        "content": "modify from fixtures part 2",
+        "created_on": "2020-12-17T10:07:01.771Z",
+        "status": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 11,
+    "fields": {
+        "title": "new added fixt",
+        "slug": "new-added-fixt",
+        "author": 1,
+        "updated_on": "2020-12-18T10:07:01.771Z",
+        "content": "neeeeew fixt",
+        "created_on": "2020-12-18T10:07:01.771Z",
+        "status": 1
+    }
+}
+]
